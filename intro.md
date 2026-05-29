@@ -12,3 +12,4 @@ You also notice fresh footprints leading toward the cave entrance.
 What will you do next?
 
 - [Enter the cave](cave.md)
+- [Turn back and head home](head-home.md)
