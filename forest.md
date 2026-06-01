@@ -6,3 +6,6 @@ The trees grow taller with every step, blocking most of the sunlight. Strange no
 
 As you approach the pond, you notice something unusual. On one side of the clearing stands an ancient stone statue covered in vines. On the other side, a small wooden bridge crosses a stream and disappears into the dense forest.
 
+Choices
+Examine the stone statue
+Cross the wooden bridge
